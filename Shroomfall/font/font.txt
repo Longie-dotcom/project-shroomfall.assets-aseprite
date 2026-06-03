@@ -1,0 +1,46 @@
+abcdefghijklmn
+opqrstuvwxyzAB
+CDEFGHIJKLMNOP
+QRSTUVWXYZđĐàá
+ảãạăằắẳẵặâầấẩẫ
+ậèéẻẽẹêềếểễệìí
+ỉĩịòóỏõọôồốổỗộ
+ơờớởỡợùúủũụưừứ
+ửữựỳýỷỹỵÀÁẢÃẠĂ
+ẰẮẲẴẶÂẦẤẨẪẬÈÉẺ
+ẼẸÊỀẾỂỄỆÌÍỈĨỊÒ
+ÓỎÕỌÔỒỐỔỖỘƠỜỚỞ
+ỠỢÙÚỦŨỤƯỪỨỬỮỰỲ
+ÝỶỸỴ!@#$%^&*()
+-_=+~`;:'"[]{}
+|\><,./?012345
+6789
+
+
+setup
+
+Input
+Output
+Meta
+Em size (?):
+1024
+Line gap:
+0
+Ascent (?):
+896
+Descent (?):
+-640
+896 - 640 + 0 = 1536 / 1024
+Pixel size:
+128
+Contour type:
+
+Pixel
+Font type:
+
+TTF
+
+UPPERCASE
+
+
+yal.com
