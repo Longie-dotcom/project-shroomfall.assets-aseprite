@@ -20,19 +20,19 @@ QRSTUVWXYZđĐàá
 setup
 
 Input:
-tile width: 14
+tile width: 11
 tile height: 31
-offset x: 0
-offset y: 0
+offset x: 1
+offset y: 1
 seperation x: 1
 seperation y: 1
 baseline x: 0
 baseline (?): 9
 
 Ouput:
-em size: 960
-line gap: ... (640)
-ascent: 0
+em size: 1024
+line gap: ... (384)
+ascent: 896
 descent: -2304
 pixel size: 128
 Font type: TTF
